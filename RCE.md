@@ -9,8 +9,12 @@ Tools:
 
 IDA Plugins:
 - [x] [smd_ida_tools2](https://github.com/lab313ru/smd_ida_tools2) 
+- [x] [Hexcopy](https://github.com/OALabs/hexcopy-ida)
 
 Knowledge:
+
+- [x] [Motorola_68000_assembly](https://info.sonicretro.org/SCHG_How-to:Work_with_Motorola_68000_assembly)
+- [x] [68000_ASM-to-Hex_Code_Reference](https://info.sonicretro.org/SCHG:68000_ASM-to-Hex_Code_Reference)
 
 Ghidra:
 
@@ -25,8 +29,6 @@ Has lots of features that will make your life easier:
 - [x]  [Trying out smd ida tools2 IDA Plugin for Gens Reverse Engineering](https://www.youtube.com/watch?v=E9RZ7o6BWvk&pp=ygUbaWRhIHBybyBzZWdhIGdlbmVzaXMgcGx1Z2lu)
 
 - [x] [ROM Hacking Assembly Sega Genesis/Megadrive Reverse Engineering [Warriors of the Eternal Sun]](https://www.youtube.com/watch?v=fstKNVX27x4)
-
-
 
 Arch:
 	
