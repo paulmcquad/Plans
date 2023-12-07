@@ -10,6 +10,7 @@ Tools:
 IDA Plugins:
 - [x] [smd_ida_tools2](https://github.com/lab313ru/smd_ida_tools2) 
 - [x] [Hexcopy](https://github.com/OALabs/hexcopy-ida)
+- [x] [HashDB](https://github.com/OALabs/hashdb-ida) 
 
 Knowledge:
 
