@@ -102,7 +102,6 @@ emovix
 erlang
 erlang-unixodbc
 etcher
-exfat-utils
 f2fs-tools
 fakechroot
 fakeroot
@@ -154,7 +153,6 @@ gnucobol
 gnuplot
 go
 gobject-introspection
-godot
 google-chrome
 gperf
 grep
@@ -199,7 +197,6 @@ intellij-idea-community-edition
 intltool
 inxi
 iproute2
-iptables
 iputils
 ipw2100-fw
 ipw2200-fw
@@ -283,17 +280,11 @@ libdbusmenu-qt6
 libdvdcss
 libfes
 libjson
-libreoffice-fresh
 libretro-blastem
 libsignon-glib
 libtool
 libtpms
 licenses
-linux-firmware
-linux61
-linux61-headers
-linux61-r8168
-linux61-virtualbox-host-modules
 lksctp-tools
 lmms
 logrotate
@@ -328,7 +319,6 @@ mdadm
 mednafen
 mednaffe
 memtest86+
-mercurial
 mesa-demos
 meson
 mhwd
@@ -531,7 +521,6 @@ sqlitebrowser
 sshfs
 stack
 steam
-subversion
 sudo
 supertuxkart
 swtpm
@@ -593,9 +582,6 @@ vulkan-mesa-layers
 w3m
 wget
 which
-wine
-wine-mono
-winetricks
 woeusb-ng
 wpa_supplicant
 wxmaxima
